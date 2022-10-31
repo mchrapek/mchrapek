@@ -4,5 +4,11 @@
 
 - I build things for the web with love 💜
 - Always learning something cool 🔭
-- You can meet me at conferences 🎤
+- JVM languages lover 💕
+- Linux user 🐧
+
+#### How to reach me 🌍  
+You can meet me at conferences where I share knowledge or:
+
+[![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marek-chrapek/)
 
