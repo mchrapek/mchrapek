@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🏢 I’m currently working on at [@helloastra](https://helloastra.com/)
+- 🏢 I’m currently working at [@helloastra](https://helloastra.com/)
