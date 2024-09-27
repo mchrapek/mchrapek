@@ -1,13 +1,13 @@
 Hi there 👋
 
-I’m Marek, a product-focused fullstack developer based in Katowice. 
-I take care of your products from the technical side.
+I’m Marek, a product-focused fullstack developer based in Katowice.  
+I take care of your products from the technical side.  
 
-What else keeps me busy?
-🔸 Building things for the web with love 💜
-🔸 Always learning something cool 🔭
-🔸 Passionate about JVM languages 💕
-🔸 Sharing knowledge at conferences 💬
+What else keeps me busy?  
+🔸 Building things for the web with love 💜  
+🔸 Always learning something cool 🔭  
+🔸 Passionate about JVM languages 💕  
+🔸 Sharing knowledge at conferences 💬  
 
 #### How to reach me 🌍  
 You can meet me at conferences where I share knowledge or:
